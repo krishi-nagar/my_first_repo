@@ -1,6 +1,7 @@
 # ignore secrets.txt
 
 secrets.txt
+.cache
 
 # Logs
 
